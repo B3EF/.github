@@ -1,8 +1,3 @@
----
-name: "Fix submission template"
-about: "Template for when you are submitting a fix for a disclosed vulnerability"
-title: "This is a test title"
----
 ### ⚙️ Abstract
 
 _Resume for everyone the implementation you've proposed to fix the security issue._
