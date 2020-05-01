@@ -17,4 +17,3 @@ _Replay the exploit to show the successful fix and mitigation behavior._
 ### 👍 User Acceptance Testing (UAT)
 
 _Run the tests or run the software with a legit use-case to show that there are no breaking changes._
-huntr.dev website
