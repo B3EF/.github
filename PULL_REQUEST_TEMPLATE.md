@@ -1,19 +1,19 @@
-### ⚙️ Abstract
+### ⚙️ Description *
 
-_Resume for everyone the implementation you've proposed to fix the security issue._
+_Describe your fix clearly and concisely - imagine you are describing it to a non-technical friend._
 
-### ❓ Technical description
+### 💻 Technical Description *
 
-_Describe the technical implementation you've proposed to fix the security issue._
+_Describe in-depth, the technical implementation of the proposed security fix. Imagine you are describing it to a NASA engineer._
 
-### 🐛 Proof of Vulnerability (PoV)
+### 🐛 Proof of Concept (PoC) *
 
-_Provide and play an exploit to show the security issue you're fixing._
+_Provide the vulnerability exploit to show the security issue you're fixing._
 
-### 🔥 Proof of Fix (PoF)
+### 🔥 Proof of Fix (PoF) *
 
-_Replay the exploit to show the successful fix and mitigation behavior._
+_Replay the vulnerability exploit to show the successful fix and mitigation of the vulnerability._
 
 ### 👍 User Acceptance Testing (UAT)
 
-_Run the tests or run the software with a legit use-case to show that there are no breaking changes._
+_Run a unit test or a legitimate use case to prove that your fix does not introduce breaking changes._
