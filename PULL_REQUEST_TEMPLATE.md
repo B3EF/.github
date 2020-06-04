@@ -17,3 +17,11 @@ _Replay the vulnerability exploit to show the successful fix and mitigation of t
 ### 👍 User Acceptance Testing (UAT)
 
 _Run a unit test or a legitimate use case to prove that your fix does not introduce breaking changes._
+
+### 📊 Metadata *
+
+_Please enter the direct URL for this bounty on huntr.dev **or** the related GitHub Issue. This is compulsory and will help us process your bounty submission quicker._
+
+#### Bounty URL: 
+
+#### GitHub Issue URL:
