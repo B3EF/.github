@@ -1,3 +1,9 @@
+### 📊 Metadata *
+
+_Please enter the direct URL for this bounty on huntr.dev. This is compulsory and will help us process your bounty submission quicker._
+
+#### Bounty URL:
+
 ### ⚙️ Description *
 
 _Describe your fix clearly and concisely - imagine you are describing it to a non-technical friend._
@@ -17,9 +23,3 @@ _Replay the vulnerability exploit to show the successful fix and mitigation of t
 ### 👍 User Acceptance Testing (UAT)
 
 _Run a unit test or a legitimate use case to prove that your fix does not introduce breaking changes._
-
-### 📊 Metadata *
-
-_Please enter the direct URL for this bounty on huntr.dev. This is compulsory and will help us process your bounty submission quicker._
-
-#### Bounty URL:
